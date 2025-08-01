@@ -175,6 +175,19 @@
 
 <img width="1902" height="934" alt="屏幕截图 2025-07-29 221028" src="https://github.com/user-attachments/assets/64b364df-9b8e-421f-b5dd-8d2427e09476" />
 
+//可以使用for 形式表示循环会更加简单，
+
+//可以使用函数，使过程更加的高级
+
+//昨天学了swith的用法
+
+<img width="961" height="688" alt="屏幕截图 2025-07-31 172321" src="https://github.com/user-attachments/assets/cbd84402-47ad-42ab-867e-a5b182bf7389" />
+
+<img width="396" height="534" alt="屏幕截图 2025-07-31 172839" src="https://github.com/user-attachments/assets/795db559-e577-4e67-9170-8b283d80fcf1" />
+
+
+
+
 
 
 
