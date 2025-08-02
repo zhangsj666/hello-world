@@ -185,9 +185,19 @@
 
 <img width="396" height="534" alt="屏幕截图 2025-07-31 172839" src="https://github.com/user-attachments/assets/795db559-e577-4e67-9170-8b283d80fcf1" />
 
+<img width="1559" height="901" alt="屏幕截图 2025-08-02 121704" src="https://github.com/user-attachments/assets/7f770124-31e0-4551-afb4-55abbc366e0d" />
 
+day 8 ;02;
 
+<img width="1999" height="953" alt="屏幕截图 2025-08-02 124636" src="https://github.com/user-attachments/assets/9aaaed9c-c89d-44b3-bc96-147b64934144" />
 
+<img width="2551" height="1256" alt="屏幕截图 2025-08-02 155656" src="https://github.com/user-attachments/assets/0be963ee-0c27-4379-b4e6-a52d329f8210" />
+
+<img width="742" height="1014" alt="屏幕截图 2025-08-02 170140" src="https://github.com/user-attachments/assets/0bd53ca3-dc05-45d8-803e-5fc71fefaacb" />
+
+<img width="807" height="1010" alt="屏幕截图 2025-08-02 170147" src="https://github.com/user-attachments/assets/7974b671-86d4-4237-83bb-dc901a5b702f" />
+
+<img width="1837" height="1280" alt="屏幕截图 2025-08-02 170629" src="https://github.com/user-attachments/assets/4feef20c-8e3e-4dab-bb8c-d68d978e691b" />
 
 
 
