@@ -1,4 +1,4 @@
-# hello-world
+<img width="2350" height="1275" alt="屏幕截图 2025-08-04 154559" src="https://github.com/user-attachments/assets/97f75459-88aa-4bc6-956b-20d47ba8ab03" /># hello-world
 此存储库用于练习 GitHub 流
 
 
@@ -199,8 +199,21 @@ day 8 ;02;
 
 <img width="1837" height="1280" alt="屏幕截图 2025-08-02 170629" src="https://github.com/user-attachments/assets/4feef20c-8e3e-4dab-bb8c-d68d978e691b" />
 
+day 8.4
 
+学习的重点是在ASCII中，大小写之间相差32，可以利用此来进行大小写的转化，数组arrays还是挺难的，其中有几个错误，第二章图的return s应该改为return n;
 
+<img width="2388" height="1009" alt="屏幕截图 2025-08-04 150652" src="https://github.com/user-attachments/assets/3c5e82d1-a6d4-41f3-a757-7afe1d36d523" />
+
+<img width="2444" height="1303" alt="屏幕截图 2025-08-04 153250" src="https://github.com/user-attachments/assets/2bb5425d-daec-4bc9-969d-58333906825e" />
+
+<img width="2350" height="1275" alt="屏幕截图 2025-08-04 154559" src="https://github.com/user-attachments/assets/bc156eac-e949-4835-ab9c-cb4ce975d80c" />
+
+<img width="1102" height="182" alt="屏幕截图 2025-08-04 154811" src="https://github.com/user-attachments/assets/7a43b894-90c9-48a0-b1d2-49524d5ad548" />
+
+<img width="1229" height="606" alt="屏幕截图 2025-08-04 155454" src="https://github.com/user-attachments/assets/9f6a9818-29f2-45bb-8adc-7924fa0a3030" />
+
+<img width="1689" height="649" alt="屏幕截图 2025-08-04 161114" src="https://github.com/user-attachments/assets/05c8b999-ce2f-4327-ba19-357ca898b94e" />
 
 
 
