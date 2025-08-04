@@ -1,4 +1,4 @@
-<img width="2350" height="1275" alt="屏幕截图 2025-08-04 154559" src="https://github.com/user-attachments/assets/97f75459-88aa-4bc6-956b-20d47ba8ab03" /># hello-world
+
 此存储库用于练习 GitHub 流
 
 
