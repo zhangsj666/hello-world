@@ -201,7 +201,7 @@ day 8 ;02;
 
 day 8.4
 
-学习的重点是在ASCII中，大小写之间相差32，可以利用此来进行大小写的转化，数组arrays还是挺难的，其中有几个错误，第二章图的return s应该改为return n;
+学习的重点是在ASCII中，大小写之间相差32，可以利用此来进行大小写的转化，数组arrays还是挺难的，其中有几个错误，第二章图的return s应该改为return n;return0，通常是正常的，而return，非零的任意数字都可能是错误的，例如404，1123
 
 <img width="2388" height="1009" alt="屏幕截图 2025-08-04 150652" src="https://github.com/user-attachments/assets/3c5e82d1-a6d4-41f3-a757-7afe1d36d523" />
 
