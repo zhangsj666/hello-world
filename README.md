@@ -215,6 +215,10 @@ day 8.4
 
 <img width="1689" height="649" alt="屏幕截图 2025-08-04 161114" src="https://github.com/user-attachments/assets/05c8b999-ce2f-4327-ba19-357ca898b94e" />
 
+day.8.6
+
+今天没有学习，感觉有点颓废，故在此批评一下我自己，绝对会补回来
+
 
 
 
