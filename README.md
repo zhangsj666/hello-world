@@ -224,9 +224,23 @@ day。8.7
 今天重大突破，借助大佬的力量，首度配置ai模型在qq上，并命名为晚樱
 ，开心
 
+day。8.8
 
+<img width="2106" height="878" alt="屏幕截图 2025-08-08 154557" src="https://github.com/user-attachments/assets/050461d0-5483-465e-9418-a7351ea34851" />
 
+<img width="1122" height="1065" alt="屏幕截图 2025-08-08 154759" src="https://github.com/user-attachments/assets/9b63f473-2d1c-4bde-b499-923bcaa10591" />
 
+<img width="2383" height="1041" alt="屏幕截图 2025-08-08 155653" src="https://github.com/user-attachments/assets/e6dfd582-b533-4003-9438-321d650a2c06" />
+
+<img width="2384" height="783" alt="屏幕截图 2025-08-08 160408" src="https://github.com/user-attachments/assets/60084e7f-cf62-439e-8203-b7355c32d64d" />
+
+第一个是循环100次，第二个是循环3次
+
+<img width="2452" height="802" alt="屏幕截图 2025-08-08 160419" src="https://github.com/user-attachments/assets/43e1e116-4118-4cab-a08d-eb14e3ab1367" />
+
+<img width="2006" height="861" alt="屏幕截图 2025-08-08 160629" src="https://github.com/user-attachments/assets/37a0ed27-df97-4929-9968-3e7073bcb3a5" />
+
+这里k是赋值，k = 0，为假，故程序不进行
 
 
 
