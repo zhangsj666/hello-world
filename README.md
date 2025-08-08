@@ -242,6 +242,12 @@ day。8.8
 
 这里k是赋值，k = 0，为假，故程序不进行
 
+<img width="2007" height="963" alt="屏幕截图 2025-08-08 161601" src="https://github.com/user-attachments/assets/14ac9829-4efa-4491-ac3d-c2e8f7a7996d" />
+
+<img width="906" height="913" alt="屏幕截图 2025-08-08 161845" src="https://github.com/user-attachments/assets/da17041e-bbc2-4482-a74c-097b68b511f9" />
+
+
+
 
 
 
