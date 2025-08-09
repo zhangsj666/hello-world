@@ -246,10 +246,17 @@ day。8.8
 
 <img width="906" height="913" alt="屏幕截图 2025-08-08 161845" src="https://github.com/user-attachments/assets/da17041e-bbc2-4482-a74c-097b68b511f9" />
 
+day 8.9
 
+<img width="838" height="677" alt="屏幕截图 2025-08-09 112508" src="https://github.com/user-attachments/assets/04e541de-9516-47fb-872a-305f9a64a8db" />
 
+<img width="969" height="628" alt="屏幕截图 2025-08-09 112549" src="https://github.com/user-attachments/assets/302fcebc-77fe-40c4-affa-a4150f51e7be" />
 
+<img width="1175" height="988" alt="屏幕截图 2025-08-09 113032" src="https://github.com/user-attachments/assets/2809f028-00a9-4b24-b93d-32e748aa58b9" />
 
+<img width="2313" height="1114" alt="屏幕截图 2025-08-09 113254" src="https://github.com/user-attachments/assets/79cf105d-6462-4745-9aa5-ece91c4b04c3" />
+
+<img width="1039" height="806" alt="屏幕截图 2025-08-09 121411" src="https://github.com/user-attachments/assets/5f670904-cbc6-4d97-a9aa-44a3460d5dde" />
 
 
 
